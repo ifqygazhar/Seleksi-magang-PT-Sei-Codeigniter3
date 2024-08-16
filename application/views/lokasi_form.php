@@ -26,7 +26,7 @@
     <label for="kota">Kota</label>
     <input type="text" name="lokasi[kota]" id="kota" value="<?php echo set_value('lokasi[kota]'); ?>"><br>
 
-    <button type="submit">Save</button>
+    <button type="submit">Simpan</button>
 
 <?php echo form_close(); ?>
 

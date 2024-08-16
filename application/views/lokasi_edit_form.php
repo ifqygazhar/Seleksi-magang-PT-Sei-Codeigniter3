@@ -26,7 +26,9 @@
     <label for="kota">Kota</label>
     <input type="text" name="lokasi[kota]" id="kota" value="<?php echo set_value('lokasi[kota]', $lokasi['kota']); ?>"><br>
 
-    <button type="submit">Update</button>
+    <button type="submit">Edit</button>
+
+    
 
 <?php echo form_close(); ?>
 

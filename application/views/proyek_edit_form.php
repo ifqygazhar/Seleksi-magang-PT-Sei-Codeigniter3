@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Edit Proyek dan Lokasi</h1>
+    <h1>Edit Proyek</h1>
 
     <?php echo form_open('proyek/update/' . (isset($proyek['id']) ? $proyek['id'] : '')); ?>
 
@@ -61,7 +61,7 @@
 
 
 
-    <button type="submit">Update</button>
+    <button type="submit">Edit</button>
     <?php echo form_close(); ?>
 
 </body>

@@ -5,21 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daftar Proyek Dan Lokasi</title>
     <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
-    <style>
-        .button-container {
-            display: flex;
-            justify-content: space-between; 
-            width: 280px; 
-        }
-
-        .button-container a {
-            text-decoration: none;
-        }
-
-        .button-container button {
-            padding: 8px 8px;
-        }
-    </style>
 </head>
 <body>
     <h1>Proyek Dan Lokasi</h1>

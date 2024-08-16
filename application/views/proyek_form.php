@@ -49,7 +49,7 @@
         <input type="text" id="pimpinanProyek" name="proyek[pimpinanProyek]" value="<?php echo set_value('proyek[pimpinanProyek]'); ?>" required><br>
 
         <label for="keterangan">Keterangan:</label>
-        <textarea id="keterangan" name="proyek[keterangan]"><?php echo set_value('proyek[keterangan]'); ?></textarea><br>
+        <textarea id="keterangan" name="proyek[keterangan]"><?php echo set_value('proyek[keterangan]'); ?> </textarea><br>
     </fieldset>
 
     <button type="submit">Simpan</button>
